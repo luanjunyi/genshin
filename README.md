@@ -12,5 +12,6 @@ Using the example a bove, the code below simulate and report the result.
 
 python char_wish.py --num_wish=174 --num_no_five_star=45
 
+![example output](example.png)
 
 
